@@ -6,5 +6,6 @@
 條件可以是:"最熱門"(討論最高) / "熱門"(隨機前幾名) / "關鍵字(標題的)"<br>
 EX: 八卦版(默認為最熱門) / 八卦版 最熱門 / 西洽版 熱門 / 表特版 學生<br>
 ## 玩玩看：https://line.me/R/ti/p/kke7955b
+![](https://github.com/YangZed/LineBot/blob/master/QRCODE.png)
 ## Github: https://github.com/YangZed/LineBot
 
